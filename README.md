@@ -1,4 +1,4 @@
-## Welcome to React Training!
+## Welcome to React Training!  Naveen Vasu
 
 This repo contains the course material for [React Training](https://reacttraining.com/). Before attending the training, please make sure you can run this repository.
 
@@ -41,7 +41,7 @@ $ nvm use default stable
 $ sudo rm -rf node_modules
 
 # If you installed node with nvm (suggested):
-$ sudo rm -rf ~/.npm 
+$ sudo rm -rf ~/.npm
 
 # If you installed node with Homebrew:
 $ sudo rm -rf /usr/local/lib/node_modules
